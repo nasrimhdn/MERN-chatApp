@@ -1,6 +1,9 @@
 chat App using React and Firebase 
+
 we can make signUp and signIn 
+
 search for any user in the database 
+
 can send text , image and these operations are realtime
 
 ![screenShot-1](https://github.com/nasrimhdn/mern-appChat/blob/main/read%20me/Screenshot%202023-08-22%20at%2010.59.44%20AM.png)
